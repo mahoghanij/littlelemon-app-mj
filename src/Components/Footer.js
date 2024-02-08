@@ -37,6 +37,11 @@ const Footer = () => {
             </ul>
             </div>
             </section>
+            <section>
+                <div>
+                    <i>Created by M.Johnson for CourseEra Meta Front-End Web Development Capstone Project</i>
+                </div>
+            </section>
         </footer>
     )
 }
